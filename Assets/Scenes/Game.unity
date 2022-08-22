@@ -2468,7 +2468,7 @@ MonoBehaviour:
   - {fileID: 634599143}
   - {fileID: 530313691}
   - {fileID: 449647300}
-  shuffleLenght: 1
+  shuffleLenght: 60
   currentScoreText: {fileID: 586687146}
   bestScoreText: {fileID: 1351898161}
   timerText: {fileID: 1814129355}

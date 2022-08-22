@@ -15,5 +15,7 @@ public class SP_EmptyTile : MonoBehaviour
     void Update()
     {
         SetMyLocalPositionToTheHolePosition();
+        
+
     }
 }
